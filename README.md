@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning algorithms, self-driving car simulation
+- 🔭 I’m currently working on self-driving car simulation
+- 🌱 I’m currently learning algorithms, Nodejs, Unity3D 
 - 😄 Know about my experience: https://www.linkedin.com/in/shimin-zhang-neu/
