@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning algorithms, self-driving car simulation
+- 😄 Know about my experience: https://www.linkedin.com/in/shimin-zhang-neu/
