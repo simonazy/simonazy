@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 I'm passionate about data analytics & visualization, and ML applications.
-- 🔭 I’m good at data wragling and modeling for solving buiness problems.
-- 🌱 I'm currently learning Spark and Big data management.
-- ⚡  Fun fact: I have self-driving car engineering nano degree.
-- 😄 Know about my experience: https://www.linkedin.com/in/shimin-zhang-neu/
+- 👯  I'm passionate about data analytics & visualization, and ML applications.
+- 🔭  I’m good at data wragling and modeling for solving buiness problems.
+- 🌱  I'm currently learning Spark and Big data management.
+- ⚡   Fun fact: I have self-driving car engineering nano degree.
+- 😄  Know about my experience: https://www.linkedin.com/in/shimin-zhang-neu/
  
