@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 - ⚡   Fun fact: I have self-driving car engineering nano degree.
 - 😄  Know about my experience: https://www.linkedin.com/in/shimin-zhang-neu/
  
+## Check out my latest blog posts:
+Coming...
+
+## Skills and Tools:
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/MachineLearning-Supervised-informational?style=flat&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/MachineLearning-Unsupervised-informational?style=flat&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DeepLearning-PyTorchLightning-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
