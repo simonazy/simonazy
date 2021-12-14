@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯  I'm passionate about data analytics & visualization, and ML applications.
+- 👯  I'm interested in data analytics & visualization, and ML applications.
 - 🔭  I’m good at data wragling and modeling with Python and SQL. 
 - 👯  I'm passionate about solving buiness problems with data-driven insights.
 - 🌱  I'm currently learning Spark, BigQuery and Big data management.
