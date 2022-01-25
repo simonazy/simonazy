@@ -19,11 +19,17 @@ Here are some ideas to get you started:
 - 🔭  I’m good at data wragling and modeling with Python and SQL. 
 - 👯  I'm passionate about solving buiness problems with data-driven insights.
 - 🌱  I'm currently learning Spark, BigQuery and Big data management.
-- ⚡   Fun fact: I have a self-driving car engineering degree.
+- ⚡   Fun fact: I have a self-driving car engineering [degree](https://confirm.udacity.com/V3AZPEGW).
 - 😄  Know about my experience: https://www.linkedin.com/in/shimin-zhang-neu/
  
 ## Check out my latest blog posts:
-Coming...
+[Visualizing a Sales Funnel in Tableau](https://medium.com/p/cb4151c678a6)
+
+[Data Modeling & ETL With Postgres Database](https://medium.com/p/43fd7c33d93b)
+
+[Setting up Spark Clusters with AWS](https://medium.com/@simonazhangzy/setting-up-spark-clusters-with-aws-3ef00a09e8a9)
+
+More ...
 
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
