@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👯  I'm interested in data engineering, engineering analytics and data visualization.
-- 🔭  I’m good at ETL pipeline development, data modeling with Scala, Python and SQL. 
+- 🔭  I’m good at ETL pipeline development, data modeling with Python, Spark and SQL. 
 - 👯  I'm passionate about solving buiness problems with data-driven insights.
 - 🌱  I am a certified [Spark Developer](https://credentials.databricks.com/304d7ad1-1940-4f71-b76d-2a66ced3f25a) by Databricks
 - 🚕   Fun fact: I have a self-driving car engineering [degree](https://confirm.udacity.com/V3AZPEGW).
