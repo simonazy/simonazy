@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 - 😄  Know about my experience: https://www.linkedin.com/in/shimin-zhang-neu/
  
 ## Check out my latest [Medium](https://medium.com/@simonazhangzy) posts:
-[Visualizing a Sales Funnel in Tableau](https://medium.com/p/cb4151c678a6)
+[Salting technique to solve data skewness](https://medium.com/@simonazhangzy/salting-technique-to-solve-data-skewness-1314cf37cdb6)
 
 [Data Modeling & ETL With Postgres Database](https://medium.com/p/43fd7c33d93b)
 
 [Setting up Spark Clusters with AWS](https://medium.com/@simonazhangzy/setting-up-spark-clusters-with-aws-3ef00a09e8a9)
+
+[Visualizing a Sales Funnel in Tableau](https://medium.com/p/cb4151c678a6)
 
 More ...
 
